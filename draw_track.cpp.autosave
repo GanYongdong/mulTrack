@@ -1,0 +1,6 @@
+﻿#include "draw_track.h"
+
+draw_track::draw_track()
+{
+    
+}
